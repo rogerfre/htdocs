@@ -1,0 +1,9 @@
+/* feuille de style */
+p, h1{
+	color: red;
+	text-align: right
+}
+/* applique sur toutes les balises */
+p {
+	text-align: center;
+}
