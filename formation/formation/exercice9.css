@@ -1,0 +1,46 @@
+/* feuille de style */
+body {
+	margin-left: 0px;	
+	margin-right: 0px;
+	margin-top: 0px;
+}
+
+
+
+.fdblue{
+	background-color:blue;
+}
+
+.fdred{
+	background-color:red;
+}
+
+.fdgreen{
+	background-color:green;
+}
+.fdorange{
+	background-color:orange;
+	padding-left: 10px;
+	padding-right: 5px;
+	padding: 10px 15px 20px 25px;
+	border-style: solid dotted dashed double;
+	border-width: 3px;
+}
+.fdpink{
+	background-color:pink;
+	border-style: groove;
+	border-width: 3px;
+	border-color: cyan;
+}
+.divgris{
+	width: 600px;
+	background-color: gray;
+}
+
+.droite{
+	float: right;
+}
+
+.gauche{
+	float: left;
+}

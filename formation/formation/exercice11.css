@@ -1,0 +1,20 @@
+/* feuille de style */
+/* définition des marges de gauche et du haut dans boddy */
+.externe {
+	margin-left: 200px;	
+	margin-top: 200px;
+	background-color : green;
+	width: 1000px;
+	height : 1000px; 
+}
+
+/* définition des marges dans le cadre pour positionner la lettre a*/
+.interieur {
+	/*padding-left: 200px;*/
+	/*padding-top: 200px;*/
+	/* position relative autre solution*/
+	position : relative;
+	top: 200px;
+	left: 200px;
+	background-color: blue;
+}
